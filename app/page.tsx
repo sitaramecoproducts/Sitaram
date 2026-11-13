@@ -39,7 +39,7 @@ export default function Home() {
     <main>
       <header className="site-header">
         <a className="brand" href="#home" aria-label="SitaRam ecoProducts home">
-          <Image src="/images/sitaram-logo-round.jpg" alt="SitaRam ecoProducts logo" width={64} height={64} priority />
+          <Image src="/images/sitaram-logo-round.svg" alt="SitaRam ecoProducts logo" width={64} height={64} priority />
           <span><strong>SitaRam</strong><small>ecoProducts</small></span>
         </a>
         <nav className="desktop-nav" aria-label="Main navigation">
@@ -61,7 +61,7 @@ export default function Home() {
         </div>
         <div className="hero-art">
           <div className="hero-image-frame">
-            <Image src="/images/sitaram-logo-square.jpg" alt="SitaRam ecoProducts brand mark in forest green" fill priority sizes="(max-width: 800px) 90vw, 42vw" />
+            <Image src="/images/sitaram-logo-square.svg" alt="SitaRam ecoProducts brand mark in forest green" fill priority sizes="(max-width: 800px) 90vw, 42vw" />
           </div>
           <div className="hero-stamp"><span className="stamp-dot" /><span>Made for everyday moments</span><span className="stamp-dot" /></div>
         </div>
@@ -93,7 +93,7 @@ export default function Home() {
 
       <section className="about-section" id="about">
         <div className="about-image">
-          <Image src="/images/product-poster.jpg" alt="SitaRam ecoProducts product range and contact details" fill sizes="(max-width: 800px) 100vw, 45vw" />
+          <Image src="/images/product-poster.svg" alt="SitaRam ecoProducts product range and contact details" fill sizes="(max-width: 800px) 100vw, 45vw" />
         </div>
         <div className="about-copy">
           <p className="eyebrow">A BETTER WAY TO SERVE / OUR APPROACH</p>
@@ -123,7 +123,7 @@ export default function Home() {
       </section>
 
       <footer className="site-footer">
-        <a className="footer-brand" href="#home"><Image src="/images/sitaram-logo-round.jpg" alt="" width={48} height={48} /><span><strong>SitaRam</strong><small>ecoProducts</small></span></a>
+        <a className="footer-brand" href="#home"><Image src="/images/sitaram-logo-round.svg" alt="" width={48} height={48} /><span><strong>SitaRam</strong><small>ecoProducts</small></span></a>
         <p>Eco · Sustainable · Packaging</p>
         <div className="footer-links"><a href="#products">Products</a><a href="#about">Our approach</a><a href="#contact">Contact</a></div>
         <small className="copyright">© {new Date().getFullYear()} SitaRam ecoProducts</small>
