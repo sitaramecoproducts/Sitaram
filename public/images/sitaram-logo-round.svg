@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+<rect width="600" height="600" fill="#fffefa"/>
+<circle cx="300" cy="300" r="265" fill="none" stroke="#145b2a" stroke-width="9"/>
+<circle cx="300" cy="300" r="250" fill="none" stroke="#145b2a" stroke-width="3"/>
+<circle cx="300" cy="300" r="180" fill="none" stroke="#145b2a" stroke-width="5"/>
+<text x="300" y="205" fill="#145b2a" text-anchor="middle" font-family="Georgia,serif" font-style="italic" font-size="70">SitaRam</text>
+<text x="300" y="247" fill="#145b2a" text-anchor="middle" font-family="Arial,sans-serif" font-weight="bold" font-size="36">ecoProducts</text>
+<g fill="none" stroke="#145b2a" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"><path d="M190 285h220l-35 170H225z"/><path d="M205 300l150 95-130 60"/></g>
+<g fill="#145b2a"><path d="M365 388c-46-24-42-75-10-105 34 22 47 65 10 105z"/><path d="M371 380c-5-47 29-78 74-76 2 42-25 76-74 76z"/><path d="M370 393c18-42 57-49 91-28-18 37-54 49-91 28z"/></g>
+<text x="300" y="535" fill="#145b2a" text-anchor="middle" font-family="Arial,sans-serif" font-weight="bold" font-size="25" letter-spacing="2">ECO · SUSTAINABLE · PACKAGING</text>
+</svg>
