@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "SitaRam ecoProducts",
     description: "Eco-conscious disposable packaging for everyday gatherings.",
-    images: ["/images/sitaram-logo-round.jpg"]
+    images: ["/images/sitaram-logo-round.svg"]
   }
 };
 
